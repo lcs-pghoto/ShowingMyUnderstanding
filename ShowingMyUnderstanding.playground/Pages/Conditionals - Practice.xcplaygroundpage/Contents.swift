@@ -27,7 +27,6 @@ let canvas = Canvas(width: 300, height: 300)
 
 // Generate a random number
 let number = random(from: 0, toButNotIncluding: 2)
-
 // Replace this comment and add your code below...
 
 /*:
